@@ -1,15 +1,13 @@
-# Zura Bokhua — Laravel Backend Developer
+# Zura Bokhua - Laravel Backend Developer
 
-Self-taught Laravel developer with 3+ years building 
-production systems across healthcare, real estate and education.
+Laravel developer with 3+ years building production 
+systems across healthcare, automotive and education.
 
 ### Currently building
-- **LaraKit** — reusable Laravel + React/Inertia admin panel template
-- **LaraAI** — reusable Laravel AI integration template (Prism, LarAgent)
-- **ScrapKit** — universal Laravel scraping framework
+- **[LaraKit](https://github.com/bokhuuu/LaraKit)** - reusable Laravel + React/Inertia admin panel template
+- **[LaraAI](https://github.com/bokhuuu/LaraAI)** - reusable Laravel AI integration template
 
 ### Stack
 Laravel · PHP · React · TypeScript · Inertia.js · MySQL · Redis · Pest
 
-### Contact
-zurabokhua@gmail.com
+📫 zurabokhua@gmail.com
