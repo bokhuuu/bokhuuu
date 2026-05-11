@@ -8,6 +8,6 @@ systems across healthcare, automotive and education.
 - **[LaraAI](https://github.com/bokhuuu/LaraAI)** - reusable Laravel AI integration template
 
 ### Stack
-Laravel · PHP · React · TypeScript · Inertia.js · MySQL · Redis · Pest
+Laravel · PHP · React · TypeScript · Inertia.js · MySQL · Redis · Prism PHP · Pest
 
 📫 zurabokhua@gmail.com
