@@ -1,16 +1,15 @@
-## Hi there 👋
+# Zura Bokhua — Laravel Backend Developer
 
-<!--
-**bokhuuu/bokhuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Laravel developer with 3+ years building 
+production systems across healthcare, real estate and education.
 
-Here are some ideas to get you started:
+### Currently building
+- **LaraKit** — reusable Laravel + React/Inertia admin panel template
+- **LaraAI** — reusable Laravel AI integration template (Prism, LarAgent)
+- **ScrapKit** — universal Laravel scraping framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+Laravel · PHP · React · TypeScript · Inertia.js · MySQL · Redis · Pest
+
+### Contact
+zurabokhua@gmail.com
