@@ -1,6 +1,6 @@
-# Zura Bokhua - Laravel Backend Developer
+# Backend Developer
 
-Laravel developer with 3+ years building production systems 
+Building production systems 
 across healthcare, automotive and education.
 
 ### Currently building
