@@ -1,6 +1,6 @@
 # Laravel Backend Developer
 
-Specializes in Laravel with a focus on clean layered architecture, RESTful API design, queue-based async processing and test-
+Specializes with a focus on clean layered architecture, RESTful API design, queue-based async processing and test-
 driven development. Currently building three open-source Laravel templates covering admin panels, AI integration
 and automated data extraction — combining into a live real estate intelligence platform for an international client.
 
