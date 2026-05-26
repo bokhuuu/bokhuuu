@@ -11,7 +11,7 @@ event-driven systems and AI integration.
 ### Currently building
 
 **Client projects**
-- [RideFlow](https://github.com/bokhuuu) — scooter sharing platform · IoT device communication · geofencing · TBC Bank payments · built for real client
+- [RideFlow](https://github.com/bokhuuu/RideFlow) — scooter sharing platform · IoT device communication · geofencing · TBC Bank payments · built for real client
 - Intelligence Platform — real estate data platform for international client (combining templates below)
 
 **Open source templates**
