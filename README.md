@@ -1,39 +1,63 @@
 # Zura Bokhua - Backend Developer
 
-Backend developer building production Laravel systems - from a scooter-sharing
-platform talking to physical IoT hardware over TCP in real time, to an
-AI-powered document extraction tool and a daily marketplace data pipeline.
-Focused on clean layered architecture, config-driven design, and systems
-built to be reused, not rebuilt from scratch every time.
+Backend developer specialising in data pipelines, AI-powered systems 
+and automation infrastructure. I build complete production systems for 
+enterprise clients - from architecture and AI integration through to 
+DevOps and deployment.
 
 ---
 
-### Delivered - client work
-*(private repos)*
+## Client Work (private repos)
 
-- **SGScooter** - electric scooter-sharing platform · custom IoT hardware protocol · real-time GPS geofencing · Payments
-- **Marketplace Scraper** - daily automated data pipeline, ~1,000 new listings/day from a bot-protected marketplace
-- **Catalog Search Tool** - AI-powered PDF catalog extraction and search tool, built on LaraAI
+**Atlas - Multi-Market Real Estate Intelligence Platform**
+Live production platform serving Colliers International Georgia across 
+Yerevan, Baku and Tbilisi. 3 markets · 26 property categories · 
+AI assistant with 11 callable tools · pgvector RAG semantic search · 
+521 automated tests · dual-queue scraping architecture
 
-### Open source templates
+**Vigil - Property Valuation Compliance Engine**
+Laravel automation engine and Telegram bot coordinating field 
+inspection compliance across 1,500+ properties for the Road Department 
+of Georgia. Airtable integration · Google Drive automation · 
+real-time team notifications
 
-- [LaraKit](https://github.com/bokhuuu/LaraKit) - reusable Laravel + React/Inertia admin panel template
-- [LaraAI](https://github.com/bokhuuu/LaraAI) - reusable Laravel AI integration template
-- [ScrapKit](https://github.com/bokhuuu/ScrapKit) - universal Laravel scraping framework
+**Papyrus - Automated Document Generation**
+Python automation engine generating 1,500+ PDF documents from 
+formula-driven Excel valuation templates via Windows COM. 
+Zero manual steps · built-in validation · structured error reporting
 
-### Next
-
-Combining all three templates into a real-estate market intelligence platform for an international client.
+**SGScooter - Electric Scooter Sharing Platform**
+Custom IoT hardware integration with no existing SDK. Built a TCP 
+server speaking the device's proprietary binary protocol directly. 
+Real-time GPS geofencing · payments · multi-language interface · 
+7-service Docker stack · 140+ tests
 
 ---
 
-### Stack
+## Open Source Templates
 
-Laravel · PHP · Python · React · TypeScript ·
-MySQL · Redis · Prism PHP · LarAgent · OpenRouter ·
-Pest · Horizon · Docker · Nginx · Filament
+- [LaraKit](https://github.com/bokhuuu/LaraKit) — 
+  Laravel + React/Inertia admin panel starter. 
+  Full auth · 2FA · roles · Docker · CI/CD
+  
+- [LaraAI](https://github.com/bokhuuu/LaraAI) — 
+  Laravel AI integration template. 
+  RAG · embeddings · tool calling · streaming · 
+  A/B testing · cost tracking · 51 tests
+  
+- [ScrapKit](https://github.com/bokhuuu/ScrapKit) — 
+  Laravel scraping framework. 
+  Pluggable profiles · deduplication · queue pipeline
 
 ---
 
-📫 zurabokhua@gmail.com
-🔍 Open to remote backend roles
+## Stack
+
+Laravel · PHP · Python · React · TypeScript · 
+PostgreSQL · pgvector · MySQL · Redis · Docker · 
+GitHub Actions · RAG · AI APIs · Pest · pytest
+
+---
+
+📫 zurabokhua@gmail.com  
+🔍 Open to remote backend and AI integration roles
