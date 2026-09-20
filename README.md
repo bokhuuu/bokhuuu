@@ -32,16 +32,16 @@ Real-time GPS geofencing · payments · multi-language interface ·
 
 ## Open Source Templates
 
-- [LaraKit](https://github.com/bokhuuu/LaraKit) — 
+- [LaraKit](https://github.com/bokhuuu/LaraKit) - 
   Laravel + React/Inertia admin panel starter. 
   Full auth · 2FA · roles · Docker · CI/CD
   
-- [LaraAI](https://github.com/bokhuuu/LaraAI) — 
+- [LaraAI](https://github.com/bokhuuu/LaraAI) - 
   Laravel AI integration template. 
   RAG · embeddings · tool calling · streaming · 
   A/B testing · cost tracking · 51 tests
   
-- [ScrapKit](https://github.com/bokhuuu/ScrapKit) — 
+- [ScrapKit](https://github.com/bokhuuu/ScrapKit) - 
   Laravel scraping framework. 
   Pluggable profiles · deduplication · queue pipeline
 
