@@ -1,17 +1,13 @@
-# Zura Bokhua - Backend Developer
+# Zura Bokhua - Software Engineer
 
-Backend developer specialising in data pipelines, AI-powered systems 
-and automation infrastructure. I build complete production systems for 
-enterprise clients - from architecture and AI integration through to 
-DevOps and deployment.
+I design and ship complete production systems - from architecture and data pipelines to AI integration and infrastructure. Sole technical partner for a leading international commercial real estate firm across Caucasus markets.
 
 ---
 
 ## Client Work (private repos)
 
 **Atlas - Multi-Market Real Estate Intelligence Platform**
-Live production platform serving Colliers International Georgia across 
-Yerevan, Baku and Tbilisi. 3 markets · 26 property categories · 
+Live production platform serving a leading international commercial real estate firm across Yerevan, Baku and Tbilisi. 3 markets · 26 property categories · 
 AI assistant with 11 callable tools · pgvector RAG semantic search · 
 521 automated tests · dual-queue scraping architecture
 
@@ -54,7 +50,7 @@ Real-time GPS geofencing · payments · multi-language interface ·
 ## Stack
 
 Laravel · PHP · Python · React · TypeScript · 
-PostgreSQL · pgvector · MySQL · Redis · Docker · 
+PostgreSQL · pgvector · Redis · Docker · 
 GitHub Actions · RAG · AI APIs · Pest · pytest
 
 ---
