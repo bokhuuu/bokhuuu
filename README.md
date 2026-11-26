@@ -14,11 +14,11 @@ Live production platform serving a leading international commercial real estate 
 - 527 automated tests · Laravel 12 · PHP 8.4 · PostgreSQL + pgvector · Redis · Docker · GitHub Actions CI/CD
 
 **[Vigil](https://github.com/bokhuuu/vigil-engine) — Property Valuation Compliance Engine**  
-Laravel automation engine and Telegram bot coordinating field inspection compliance across 1,500+ properties for the Road Department of Georgia.
+Laravel automation engine and Telegram bot coordinating field inspection compliance across 1,500+ properties for the Colliers Georgia.
 
 - Event-driven Google Drive watcher (Drive Changes API) — auto-ticks document checkboxes across 1,500+ property folders without polling
 - Airtable integration across 7 relational tables · real-time team notifications · sector progress reports
-- Business module web UI with separate auth guard · 154 automated tests · GitHub Actions CI/CD
+- Business module web UI with separate auth guard · 299 automated tests · GitHub Actions CI/CD
 
 **[RideFlow](https://github.com/bokhuuu/rideflow-engine) — Electric Scooter Sharing Platform**  
 Production platform built around custom IoT hardware with no existing SDK. The supplier provided raw TCP protocol documentation; everything else was built from scratch.
